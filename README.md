@@ -1,4 +1,4 @@
-# Feature_Descriptors
+# Feature_Descriptors using OpenCV
 Comparison between feature descriptors SIFT, SURF and ORB
 
 1. SIFT (Scale Invarient Feature Descriptor)  
